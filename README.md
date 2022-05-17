@@ -54,7 +54,4 @@ Carlos Ignacio Campos Morales
 
 </pre>
 
-<pre>
-
-	<p align=left>
 
